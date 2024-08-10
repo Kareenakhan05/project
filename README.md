@@ -12,3 +12,4 @@ Welcome to the Lizmotors Car Manufacturer Dashboard project! This project showca
 ## DEMO
 
 click here for view
+ https://kareenakhan05.github.io/project/
